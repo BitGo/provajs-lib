@@ -29,7 +29,7 @@
     "bitcoinjs-lib": "~3.0.2",
     "bs58check": "~2.0.1",
     "ecurve": "~1.0.5",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.20",
     "typeforce": "~1.10.6",
     "varuint-bitcoin": "~1.0.4"
   },
